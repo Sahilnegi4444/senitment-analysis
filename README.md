@@ -80,6 +80,7 @@ Deployment	Streamlit
 Serialization	Pickle, Joblib
 
 ## Project Structure
+```
 sentiment_app/
 ├── app.py                   # Streamlit app
 ├── model.joblib             # Trained model
@@ -88,7 +89,7 @@ sentiment_app/
 ├── requirements.txt         # Dependencies
 ├── .env                     # Database credentials (excluded from repo)
 └── README.md                # Project documentation
-
+```
 ## Example Output
 
 User Input: “The product stopped working within a week. Totally disappointed.”
